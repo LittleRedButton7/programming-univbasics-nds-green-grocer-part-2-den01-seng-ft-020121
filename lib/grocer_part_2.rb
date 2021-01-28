@@ -47,4 +47,6 @@ def checkout(cart, coupons)
     count += 1
   end
   if total > 100
+    total - 
+  end  
 end
