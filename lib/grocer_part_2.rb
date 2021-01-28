@@ -26,7 +26,11 @@ def apply_coupons(cart, coupons)
 end
 
 def apply_clearance(cart)
+  count = 0 
+  while
   
+  end
+  count += 1
 end
 
 def checkout(cart, coupons)
