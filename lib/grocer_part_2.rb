@@ -33,6 +33,7 @@ def apply_clearance(cart)
     end  
   count += 1
   end
+  cart
 end
 
 def checkout(cart, coupons)
